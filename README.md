@@ -1,5 +1,9 @@
 # IP-LOCATOR
 Find a geolocation of an IP address including latitude, longitude, city, region and country.
+
+
+Download: git clone https://github.com/msjames/IP-LOCATOR.git
+
 command:- 1) cpan JSON
 
           2)chmod +x iplocator.pl
